@@ -1,0 +1,14 @@
+{
+  "name": "imu-avatar-mapping-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.3"
+  }
+}
